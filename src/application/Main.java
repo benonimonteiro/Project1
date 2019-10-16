@@ -5,6 +5,8 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.control.ScrollPane;
 import javafx.stage.Stage;
+import model.dao.DaoFactory;
+import model.dao.DepartmentDao;
 
 
 public class Main extends Application {
